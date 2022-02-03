@@ -5,5 +5,5 @@
 # all logged in userS
 users
 
-# current logged in user who are excuating this command
+# current logged in user who is excuating this command
 whoami
