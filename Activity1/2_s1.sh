@@ -8,7 +8,6 @@
 x=5
 
 # b
-script_name="2_s2.sh"
 touch 2_s2.sh
 echo "#!/bin/bash \necho the value of X from s2: \$1" > 2_s2.sh
 . ./2_s2.sh $x
